@@ -1,7 +1,7 @@
 # LoggerUtil
 
 Examples:
-To generate log files with 50000 records use command:
+To generate log files with 50000 records use command:  
 java -jar LoggerUtil.jar -g 50000
 
 To print out logs by username 'hurtfulabout' in 3 threads: 
